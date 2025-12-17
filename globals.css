@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-display: "JetBrains Mono", monospace;
+    --font-body: "Inter", sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-dark-bg text-dark-text;
+  }
+
+  ::selection {
+    @apply bg-accent-primary/30 text-white;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-accent-primary to-accent-secondary bg-clip-text text-transparent;
+  }
+
+  .glow-effect {
+    box-shadow: 0 0 30px rgba(59, 130, 246, 0.15);
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-[1.02] hover:shadow-xl hover:shadow-accent-glow;
+  }
+}
