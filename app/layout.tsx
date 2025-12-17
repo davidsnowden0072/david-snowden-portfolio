@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     "Web Development",
   ],
   authors: [{ name: "David Snowden" }],
+  icons: {
+    icon: "/icon",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",

@@ -18,8 +18,8 @@ const projects = [
       "Vercel",
       "REST API",
     ],
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/Hanover-CS/HC26-Snowden-David-Senior-Project",
+    demo: "https://hc-26-snowden-david-senior-project.vercel.app/",
   },
   {
     title: "Schedule Visualizer for Hanover College",
