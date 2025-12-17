@@ -26,7 +26,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/davidsnowden0072"
               target="_blank"
               rel="noopener noreferrer"
               className="text-dark-muted hover:text-accent-primary transition-colors"
@@ -41,7 +41,7 @@ export default function Footer() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/david-snowden-0b027132a"
               target="_blank"
               rel="noopener noreferrer"
               className="text-dark-muted hover:text-accent-primary transition-colors"

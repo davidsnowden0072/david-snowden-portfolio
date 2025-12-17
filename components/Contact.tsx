@@ -119,7 +119,7 @@ export default function Contact() {
                 </h3>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com"
+                    href="https://github.com/davidsnowden0072"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-lg bg-dark-card border border-dark-border flex items-center justify-center text-dark-muted hover:text-accent-primary hover:border-accent-primary transition-all"
@@ -134,7 +134,7 @@ export default function Contact() {
                     </svg>
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="www.linkedin.com/in/david-snowden-0b027132a"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-12 h-12 rounded-lg bg-dark-card border border-dark-border flex items-center justify-center text-dark-muted hover:text-accent-primary hover:border-accent-primary transition-all"
