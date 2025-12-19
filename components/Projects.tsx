@@ -20,8 +20,8 @@ const projects = [
       "REST API",
     ],
     image: "/projects/course-ratings.png",
-    github: "YOUR_GITHUB_URL",
-    demo: "YOUR_DEMO_URL",
+    github: "https://github.com/Hanover-CS/HC26-Snowden-David-Senior-Project",
+    demo: "https://hc-26-snowden-david-senior-project.vercel.app/",
   },
   {
     title: "Schedule Visualizer for Hanover College",
