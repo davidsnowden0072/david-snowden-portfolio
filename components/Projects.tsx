@@ -29,8 +29,8 @@ const projects = [
       "Academic scheduling tool helping students visualize course schedules and identify time conflicts. Implemented complex constraint validation logic to ensure schedule feasibility. Participated in comprehensive QA testing cycles and requirements gathering sessions with stakeholders. Developed algorithm optimizations for conflict detection across multiple semester scenarios.",
     tech: ["JavaScript", "HTML/CSS", "Algorithm Design", "QA Testing"],
     image: null,
-    github: "YOUR_GITHUB_URL",
-    demo: "YOUR_DEMO_URL",
+    github: "#",
+    demo: null,
   },
   {
     title: "AI-Based MedSpa Scheduler",
@@ -43,7 +43,7 @@ const projects = [
       "AI Integration",
     ],
     image: null,
-    github: "YOUR_GITHUB_URL",
+    github: "#",
     demo: null,
   },
 ];
