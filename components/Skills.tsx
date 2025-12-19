@@ -7,7 +7,7 @@ import { useRef } from "react";
 const skillCategories = [
   {
     category: "Frontend",
-    skills: ["React", "JavaScript", "TypeScript", "HTML", "Tailwind CSS"],
+    skills: ["React", "JavaScript", "TypeScript", "HTML", "Tailwind CSS", "REST APIs"],
   },
   {
     category: "Backend",
@@ -19,7 +19,7 @@ const skillCategories = [
   },
   {
     category: "Tools & Platforms",
-    skills: ["GitHub", "VS Code", "IntelliJ IDEA", "Vercel", "Render"],
+    skills: ["GitHub", "VS Code", "IntelliJ IDEA", "Vercel", "Render", "Vite", "npm"],
   },
   {
     category: "IT & Security",

@@ -27,8 +27,8 @@ export default function About() {
               <p>
                 I&apos;m a senior Computer Science major at Hanover College with a
                 minor in Business, combining technical expertise with strategic
-                thinking. Currently maintaining a 3.5 GPA and recognized on the
-                Dean&apos;s List for five consecutive semesters, I&apos;m passionate
+                thinking. Currently maintaining a 3.52 GPA and recognized on the
+                Dean&apos;s List for six consecutive semesters, I&apos;m passionate
                 about building software that makes a difference.
               </p>
               <p>
